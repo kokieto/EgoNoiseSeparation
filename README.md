@@ -12,7 +12,7 @@ Koki Shoda, Jun Younes Louhi Kasahara, Aoba Koyanagi, Qi An, and Atsushi Yamashi
 
 Project page: https://kokieto.github.io/EgoNoiseSeparation/
 
-Model weights: https://huggingface.co/kokieto/Learning2HearWhileWalking
+Model weights: https://huggingface.co/kokieto/EgoNoiseSeparation
 
 ## What is included
 
@@ -32,10 +32,10 @@ Model weights: https://huggingface.co/kokieto/Learning2HearWhileWalking
 - Private data, evaluation splits, and paper-generation scripts.
 
 Fine-tuned G1 and Go1 Transfer-DiT checkpoints are hosted on
-[Hugging Face](https://huggingface.co/kokieto/Learning2HearWhileWalking):
+[Hugging Face](https://huggingface.co/kokieto/EgoNoiseSeparation):
 
-- [G1 checkpoint](https://huggingface.co/kokieto/Learning2HearWhileWalking/blob/main/checkpoints/G1/best.pt)
-- [Go1 checkpoint](https://huggingface.co/kokieto/Learning2HearWhileWalking/blob/main/checkpoints/Go1/best.pt)
+- [G1 checkpoint](https://huggingface.co/kokieto/EgoNoiseSeparation/blob/main/checkpoints/G1/best.pt)
+- [Go1 checkpoint](https://huggingface.co/kokieto/EgoNoiseSeparation/blob/main/checkpoints/Go1/best.pt)
 
 Download the checkpoint for the target robot and pass its local path to
 `--checkpoint` as shown below.
