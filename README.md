@@ -20,7 +20,7 @@ https://kokieto.github.io/EgoNoiseSeparation/
 
 Model weights:
 
-https://huggingface.co/kokieto/Learning2HearWhileWalking
+https://huggingface.co/kokieto/EgoNoiseSeparation
 
 Open `index.html` through GitHub Pages or a local static server.
 
